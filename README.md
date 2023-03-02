@@ -1,2 +1,3 @@
-# Hex-to-Unicode-Converter
-Converts hexidecimal values to Unicode characters with Kotlin.
+# kotlin-experiments
+
+A loose collection of Kotlin experiments by me (@sanbeiji).
