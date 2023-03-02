@@ -1,3 +1,6 @@
+/** characters: this won't compile because it is larger than 64k. Should be broken
+    into smaller groups
+*/
 val characters = listOf(
     "一","丁","丂","七","丄","丅","丆","万","丈","三","上","下","丌","不","与","丏",
     "丐","丑","丒","专","且","丕","世","丗","丘","丙","业","丛","东","丝","丞","丟",
