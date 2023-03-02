@@ -4,7 +4,7 @@
 
 fun main() {
   for (hexValue in 0x000..0x13430) {
-    print("0x$hexValue: ${ convert(hexValue!!)}, ")
+    print("0x$hexValue: ${ convert(hexValue)}, ")
   }
 }
 
