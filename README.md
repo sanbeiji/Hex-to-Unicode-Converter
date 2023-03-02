@@ -1,3 +1,3 @@
 # kotlin-experiments
 
-A loose collection of Kotlin experiments by me (@sanbeiji).
+A loose collection of Kotlin experiments by me ([@sanbeiji](/sanbeiji/)).
